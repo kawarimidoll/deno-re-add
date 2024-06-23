@@ -1,0 +1,24 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "jsr:@std/collections@^1.0.0": "jsr:@std/collections@1.0.0",
+      "jsr:@std/jsonc@^0.224.3": "jsr:@std/jsonc@0.224.3"
+    },
+    "jsr": {
+      "@std/collections@1.0.0": {
+        "integrity": "8e4e07ce1df7badae20b80f2678c3ca3bc14cae5514c4e1817a4668ba8b1adf2"
+      },
+      "@std/jsonc@0.224.3": {
+        "integrity": "c10770a31489f5b85a3562d9b107c497666d8b6a49291ee2711d84da2616c2d6"
+      }
+    }
+  },
+  "remote": {},
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/collections@^1.0.0",
+      "jsr:@std/jsonc@^0.224.3"
+    ]
+  }
+}

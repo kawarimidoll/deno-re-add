@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@std/collections": "jsr:@std/collections@^1.0.0",
+    "@std/jsonc": "jsr:@std/jsonc@^0.224.3"
+  }
+}
